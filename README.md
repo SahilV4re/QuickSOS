@@ -20,22 +20,6 @@
 ## Project Overview
 Our SOS application is designed to provide quick assistance during emergencies. It allows users to add and manage emergency contacts, customize emergency messages, access helpline numbers, and receive first aid information. The highlight of the app is the Emergency Mode feature, which, when activated, sends an SOS message along with the user's current location to registered emergency contacts. It was created in Dec 2023 and is available for download on Github. Application can be found [here](https://github.com/samirsuroshe18/SOS-Emergency-App/releases/tag/1.0.0). To use the app, simply download it from the github, and use it.
 
-## Configuration Instructions
-To achieve optimum performance, we recommend the following computer and software configurations:
-- Operating System: Android 7.0 (Nougat) or higher
-- Minimum RAM: 1GB
-- Hardware : Accelerometer and Telephony required
-- Storage: 100MB free space
-
-## Installation Instructions
-To install the SOS Android Application, follow these steps:
-1. Download the APK file from the assets section of the release information.
-2. Enable installation from unknown sources in your device settings.
-3. Open the APK file and follow the on-screen instructions to install the app.
-4. Alternatively, clone the repository and import the project into Android Studio.
-5. Configure the project settings as needed.
-6. Build and run the project on your device or emulator.
-
 ## Operating Instructions
 The SOS App allows users to:
 - Open App
@@ -45,20 +29,7 @@ The SOS App allows users to:
 - Allow location permission
 - Your emergency mode is acivate now shake you phone
 
-## List of Files Included
-- /app: Contains the source code of the Android application.
-  - /src: Contains the Java source code files.
-  - /res: Contains resources such as layout files, images, and strings.
-- /docs: Contains documentation files for the project.
-- /README.md: The README file you are currently reading.
 
-## Contact Information
-For any inquiries or support, please feel free to contact us:
-- Developer: Samir Suroshe
-- Email : [sameersuroshe50@gmail.com](mailto:sameersuroshe50@gmail.com)
-- Linkedin: [samir suroshe](www.linkedin.com/in/samir-suroshe-50b073271)
-
-Your support and contributions are greatly appreciated!
 
 
 
