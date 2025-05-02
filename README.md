@@ -1,12 +1,5 @@
 
-# Project Name: SOS Emergency App <br>
 
-
-<img src="https://github.com/samirsuroshe18/SOS-Emergency-App/assets/130245723/a23e9439-d5be-4ec0-9a23-3a5d8d12ad3c" width="188" >  
-<img src="https://github.com/samirsuroshe18/SOS-Emergency-App/assets/130245723/dbf5ef2c-23c9-4c28-b672-a4212d2b5578" width="188" >  
-<img src="https://github.com/samirsuroshe18/SOS-Emergency-App/assets/130245723/f6824a6e-f699-44cd-9cd5-427a7a8a5c4e" width="188" >  
-<img src="https://github.com/samirsuroshe18/SOS-Emergency-App/assets/130245723/cb79a896-821c-4b15-8d30-9d72855100ea" width="188" >
-<img src="https://github.com/samirsuroshe18/SOS-Emergency-App/assets/130245723/7b76d09c-f718-4f6b-85f8-393ebfd3a562" width="188" >
 
 
 ## Project Overview
