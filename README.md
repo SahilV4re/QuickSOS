@@ -18,7 +18,7 @@
 </div>
 
 ## Project Overview
-Our SOS application is designed to provide quick assistance during emergencies. It allows users to add and manage emergency contacts, customize emergency messages, access helpline numbers, and receive first aid information. The highlight of the app is the Emergency Mode feature, which, when activated, sends an SOS message along with the user's current location to registered emergency contacts. It was created in Dec 2023 and is available for download on Github. Application can be found [here](https://github.com/samirsuroshe18/SOS-Emergency-App/releases/tag/1.0.0). To use the app, simply download it from the github, and use it.
+Our SOS application is designed to provide quick assistance during emergencies. It allows users to add and manage emergency contacts, customize emergency messages, access helpline numbers, and receive first aid information. The highlight of the app is the Emergency Mode feature, which, when activated, sends an SOS message along with the user's current location to registered emergency contacts.
 
 ## Operating Instructions
 The SOS App allows users to:
